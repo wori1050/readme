@@ -23,6 +23,7 @@
 	<li>push.Ex</li>
 	<li>pull.CloneEx</li>
 	<li>conflict.Ex</li>
+	<li>conflict.CloneEx</li>
 </ul>
 </body>
 </html>
